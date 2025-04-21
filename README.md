@@ -43,7 +43,7 @@ Este portafolio está diseñado para compartir con reclutadores, empleadores o c
 ## 📬 Contacto
 
 - Email: <<<damariscruzlopez02@.com>>>
-- LinkedIn: [<<<DamarizCruz>>>](https://linkedin.com/in/<<<damaris-cruz-0b4183269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>>>)
+- LinkedIn: [<<<Damariz Cruz>>>](https://www.linkedin.com/in/damaris-cruz-0b4183269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
