@@ -5,7 +5,7 @@
 Este repositorio contiene mi sitio web de portafolio personal y profesional, desarrollado con **GitHub Pages** y escrito en **Markdown**.
 
 📌 Puedes verlo en línea aquí:  
-🔗 [https://<<<damariscruz>>>.github.io](https://<<<damariscruz>>>.github.io)
+🔗 [https://damariscruz.github.io](https://<<<damariscruz>>>.github.io)
 
 ---
 
